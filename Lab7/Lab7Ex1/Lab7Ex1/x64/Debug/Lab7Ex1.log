@@ -1,0 +1,19 @@
+﻿  Lab7Ex1.cpp
+C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\Lab7Ex1\Lab7Ex1.cpp(60,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\Lab7Ex1\Lab7Ex1.cpp(81,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\Lab7Ex1\Lab7Ex1.cpp(81,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\Lab7Ex1\Lab7Ex1.cpp(108,18):
+  	see reference to function template instantiation 'int cautareBinara<int>(std::vector<int,std::allocator<int>>,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\Lab7Ex1\Lab7Ex1.cpp(40,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\Lab7Ex1\Lab7Ex1.cpp(40,11):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\Lab7Ex1\Lab7Ex1.cpp(109,5):
+  	see reference to function template instantiation 'void sorteaza<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  
+  Lab7Ex1.vcxproj -> C:\Users\User\Documents\TehniciAvansateProgramare\Lab7\Lab7Ex1\x64\Debug\Lab7Ex1.exe
